@@ -16,7 +16,7 @@ I build web apps and AI agents, from the UI down to the database.
 
 ### 🚀 What I'm Working On
 
-- **Aurevixa**: my company, building web apps and AI agents
+- **Aurevixa**: our company, building web apps and AI agents
 - **My Tasks**: a task manager built with Next.js, React 19 and Supabase, with authentication and Google sign-in
 - **Portfolio**: my personal portfolio site *(in progress)*
 
