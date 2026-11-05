@@ -1,6 +1,6 @@
 # Hi, I'm John Lloyd F. Mata 👋
 
-**Full-Stack Developer** · Founder of **Aurevixa**
+**Full-Stack Developer** · Member of **Aurevixa**
 
 I build web apps and AI agents, from the UI down to the database.
 
